@@ -1,2 +1,2 @@
 # Kiva
-Kiva sample dataset with visualization (codecademy project)
+Kiva sample dataset with visualization using Seaborn (codecademy project)
